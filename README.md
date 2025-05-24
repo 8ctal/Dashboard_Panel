@@ -59,3 +59,7 @@ El panel administrativo incluye las siguientes secciones:
 3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
+
+![Vista del Panel Administrativo](./images/dashboard.png)
+
+*Vista general del panel administrativo web, mostrando la barra de navegación responsiva y el diseño centrado de las secciones.*
