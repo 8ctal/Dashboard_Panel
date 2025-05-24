@@ -2,6 +2,10 @@
 
 Este proyecto es un panel administrativo web desarrollado con React y Vite, utilizando Material-UI como framework de diseño.
 
+![Vista del Panel Administrativo](./images/WhatsApp%20Image%202025-05-24%20at%2012.07.38%20AM.jpeg)
+
+*Vista general del panel administrativo web, mostrando la barra de navegación responsiva y el diseño centrado de las secciones.*
+
 ## Características
 
 - Navegación moderna con React Router
@@ -59,7 +63,3 @@ El panel administrativo incluye las siguientes secciones:
 3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
-
-![Vista del Panel Administrativo](./images/dashboard.png)
-
-*Vista general del panel administrativo web, mostrando la barra de navegación responsiva y el diseño centrado de las secciones.*
