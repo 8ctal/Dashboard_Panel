@@ -2,7 +2,7 @@
 
 Este proyecto es un panel administrativo web desarrollado con React y Vite, utilizando Material-UI como framework de diseño.
 
-![Vista del Panel Administrativo]<img src="images/dashboard.png" alt="Preview" width="1280" height="720">
+![Vista del Panel Administrativo] <img src="images/dashboard.png" alt="Preview" width="1720" height="1280">
 
 *Vista general del panel administrativo web, mostrando la barra de navegación responsiva y el diseño centrado de las secciones.*
 
