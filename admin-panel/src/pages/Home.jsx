@@ -13,7 +13,8 @@ const Home = () => {
         width: '100%', 
         maxWidth: 600, 
         mx: 'auto', 
-        textAlign: 'center' 
+        textAlign: 'center', 
+        marginTop: '200px' // Adjusted margin to avoid overlap with the navbar
       }}
     >
       <Typography variant="h3" component="h1" gutterBottom>
